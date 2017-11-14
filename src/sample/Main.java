@@ -12,7 +12,7 @@ public class Main extends Application {
     @Override
     public void start(Stage primaryStage) {
         Player player = new Player("file:///C:/ducktales.mp4");
-        Scene scene = new Scene(player,854, 480, Color.BLACK);
+        Scene scene = new Scene(player,854, 520, Color.BLACK);
         primaryStage.setScene(scene);
         primaryStage.show();
     }
