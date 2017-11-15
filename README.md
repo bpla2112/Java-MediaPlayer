@@ -1,6 +1,6 @@
 Java-MediaPlayer
 
-**Summary**
+**Summary***
 Simple media player. It will probably initialize by playing a video called ducktales.mp4
 However, one can choose to play music or other videos using the Open Dialog.
 
