@@ -10,4 +10,4 @@ If you want, you can try to build it in Java 9. However, you may come across iss
 
 **Next Steps**
 I would like to build an installer package and make this media player more aesthetically pleasing.
-Maybe give the player a name, or an icon when it loads. 
+Maybe give the player a name, or an icon when it loads.
